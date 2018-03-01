@@ -1,2 +1,2 @@
-个人Splunk的实战理解和经验
-文档可下载https://github.com/zengzhicheng/Cherrytree下的工具进行打开
+涓汉Splunk鐨勫疄鎴樼悊瑙ｅ拰缁忛獙
+splunk.ctd鏂囨。鍙�氳繃https://github.com/zengzhicheng/Cherrytree杩涜鎵撳紑
